@@ -1,0 +1,24 @@
+#include<iostream>
+using namespace std;
+#define SIZE(x) (sizeof(x)/sizeof(x[0]))
+
+int binSearch(int [], int, int, int);
+
+int main()
+{
+	int array[5] = {1, 2, 3, 4, 5};
+	int x, f, m, l;
+	cout << binSearch(x, f, m, l);
+	
+	return 0;
+}
+
+int binSearch(int array[], int indexF; int mid, int indexL)
+{
+	int x, f, m, l;
+
+	//prints array before search
+	for(int i = 0; i < SIZE(array); i++)
+		cout << array[i];
+	
+}
