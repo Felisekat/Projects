@@ -1,0 +1,11 @@
+import turtle
+bluePentTurt = turtle.Turtle()
+
+bluePentTurt.shape("turtle")
+bluePentTurt.color("cornflowerblue")
+for i in range(5):
+    bluePentTurt.forward(100)
+    bluePentTurt.left(72) #pent is 108 so 180-108 = 72 for angelsbluePentTurt.stamp()
+    bluePentTurt.stamp()
+  
+    
