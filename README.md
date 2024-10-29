@@ -1,2 +1,2 @@
-# Python-projects
+# Projects
 coding_is_fun
