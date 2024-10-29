@@ -1,0 +1,21 @@
+import turtle
+
+turnt = turtle.Turtle()
+turnt.shape("turtle")
+#turns = []
+
+
+turns = [int(input("Enter a whole number: "))for _ in range(5)]
+
+for direction in turns: #declaring variable directions to read each input in turns list 
+    turnt.left(direction)
+    turnt.forward(100)
+
+
+#for i in range(5):
+   # direction = int(input("Enter a whole number: "))
+    #turns.append(direction)
+    
+#for direction in turns:
+    #turnt.left(direction)
+    #turnt.forward(100)
