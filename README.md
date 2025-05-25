@@ -2,7 +2,7 @@
 coding_is_fun
 
 
-# 📚 Archived Coursework – [Course Name or Semester]
+# 📚 Archived Coursework 
 
 This repository contains coursework and assignments completed during my time at [Hunter College] as part of my Computer Science studies.
 
